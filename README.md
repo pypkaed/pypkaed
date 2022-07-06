@@ -1,4 +1,6 @@
-### Hi there 👋
+### всем кискам пис 👋
+
+<a href="https://wakatime.com/@835c0669-b6a6-4df0-93bc-07977cb208e6"><img src="https://wakatime.com/badge/user/835c0669-b6a6-4df0-93bc-07977cb208e6.svg" alt="Total time coded since May 5 2022" /></a>
 
 <!--
 **pypkaed/pypkaed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
