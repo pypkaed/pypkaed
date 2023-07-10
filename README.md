@@ -4,4 +4,4 @@
 
 > 🍀 <a href="https://pypka.notion.site/home-c66e13e341ef42eb8d867230ee40d7c5">my notion home page</a>
 
-> 🌇 <a href="https://www.notion.so/pypka/ITMO-University-c78a9ec0ce0a4b5ea181b2cccd33b527?pvs=4">studying in ITMO page</a>
+> 🌇 <a href="https://www.notion.so/pypka/ITMO-University-c78a9ec0ce0a4b5ea181b2cccd33b527?pvs=4">studying at ITMO page</a>
